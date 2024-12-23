@@ -1,6 +1,7 @@
 import { useState } from 'react'
-import Sidebar from './componenets/sidebar/sidebar'
-import MainLayout from './componenets/MainLayout/MainLayout'
+
+import MainLayout from './components/MainLayout/MainLayout'
+import Sidebar from './components/sidebar/Sidebar'
 
 
 function App() {
